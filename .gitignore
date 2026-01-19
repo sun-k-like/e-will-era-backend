@@ -1,0 +1,13 @@
+# 환경 변수 및 보안 키
+.env
+*.env
+auth.json
+
+# 파이썬/노드 종속성
+__pycache__/
+node_modules/
+venv/
+
+# 운영 체제 설정 파일
+.DS_Store
+Thumbs.db
